@@ -1,7 +1,0 @@
-{
-  "require": {
-    
-    "ext-gmp": "*",
-    "ext-intl": "*"
-  }
-}
