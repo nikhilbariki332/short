@@ -1,2 +1,3 @@
-RewriteEngine on
-RewriteRule ^(.*) resources/$1 [L]
+<IfModule mod_rewrite.c>
+IndexIgnore *
+</IfModule>
